@@ -1,5 +1,9 @@
-- 👋 Hi, I’m @rowaahmed
+- 👋 Hi, I’m Rowa
 - 😄 Pronouns: She/Her
+- 🏫 Univeristy of British Columbia
+- 🔌 Electrical Engineer
+- 📍 Toronto and Vancouver
+- 
 
 <!---
 rowaahmed/rowaahmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
